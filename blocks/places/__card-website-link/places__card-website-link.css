@@ -1,0 +1,12 @@
+.places__card-website-link {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.22;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}
+
+.places__card-website-link:hover {
+    transition: .3s;
+    opacity: .8;
+}
