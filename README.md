@@ -12,4 +12,4 @@
 * Разработка и интерфейса для разных устройств
 * Медиа запросы
 
-Посмотреть:
+Посмотреть: https://maksimbelokon.github.io/russian-travel/index.html
