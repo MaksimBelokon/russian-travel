@@ -43,13 +43,13 @@
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 580px) {
     .cover__link {
-        min-height: 300px;
+        min-height: 350px;
     }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 450px) {
     .cover__link {
         min-height: 200px;
     }
