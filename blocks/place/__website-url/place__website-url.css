@@ -1,15 +1,16 @@
-.places__card-website-url {
+.place__website-url {
     font-weight: 400;
     font-size: 12px;
     line-height: 1.7;
     letter-spacing: 2px;
-
     color: #AAAAAA;
+    text-transform: uppercase;
+    margin: 0 0 12px;
 }
 
 
 @media screen and (max-width: 768px) {
-    .places__card-website-url {
+    .place__website-url {
         line-height: 1;
     }
 }

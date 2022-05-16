@@ -1,4 +1,4 @@
-.places__card-title {
+.place__title {
     /* grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 1;
@@ -12,22 +12,23 @@
 }
 
 @media screen and (max-width: 1024px) {
-    .places__card-title {
+    .place__title {
         font-size: 72px;
         line-height: 1.06;
     }
 }
 
 @media screen and (max-width: 768px) {
-    .places__card-title {
+    .place__title {
         font-size: 42px;
         line-height: 1.1;
     }
 }
 
 @media screen and (max-width: 320px) {
-    .places__card-title {
+    .place__title {
         font-size: 32px;
         line-height: 1.09;
+        padding: 0 16px 0;
     }
 }

@@ -9,21 +9,18 @@
     
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 750px) {
     .lead__title {
-        font-weight: 900;
         font-size: 50px;
         line-height: 44px;
-        max-width: 650px;
+        max-width: 618px;
     }
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 400px) {
     .lead__title {
-        font-weight: 900;
         font-size: 40px;
-        line-height: 44px;
-        width: 288px;
+        max-width: 288px;
     }
 }
 

@@ -7,11 +7,17 @@
     text-align: center;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 580px) {
+    .cover__subtitle {
+        font-size: 15px;
+        max-width: 288px;
+    }
+}
+
+@media screen and (max-width: 330px) {
     .cover__subtitle {
         font-size: 14px;
         line-height: 1.14;
         margin: 16px 0 0;
-        max-width: 250px;
     }
 }

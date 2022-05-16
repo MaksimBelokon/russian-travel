@@ -2,8 +2,9 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    font-family: 'Inter';
+    font-family: 'Inter', 'Arial', sans-serif;
     padding: 28px 48px 0;
+    margin: 0;
 }
 
 @media screen and (max-width: 1024px) {
