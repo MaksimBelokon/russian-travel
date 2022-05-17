@@ -1,13 +1,13 @@
 .place {
     display: grid;
-    grid-template-columns: minmax(440px, 460px) minmax(456px, 484px);
+    grid-template-columns: minmax(350px, 460px) minmax(350px, 484px);
     gap: 48px 40px;
 }
 
 @media screen and (max-width: 1024px) {
     .place {
         display: grid;
-        grid-template-columns: minmax(340px, 440px) minmax(300px, 456px);
+        grid-template-columns: minmax(300px, 440px) minmax(250px, 456px);
         gap: 48px 32px;
     }
 }
